@@ -3,3 +3,4 @@ library(dplyr)
   data  %>%
    select(id, name, city , spending)  %>%
   arrange (spending) %>%
+.v
